@@ -20,7 +20,7 @@ available at: https://www.kaggle.com/datasets/nafishamoin/new-bangladeshi-crop-d
 
    Open the Jupyter Notebook:
 
-2. Run the Notebook:
+2. **Run the Notebook:** 
    ```bash
    jupyter notebook CornMaladyAnalyzer_VGG16.ipynb
 
