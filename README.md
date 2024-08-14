@@ -24,5 +24,5 @@ available at: https://www.kaggle.com/datasets/nafishamoin/new-bangladeshi-crop-d
    ```bash
    jupyter notebook CornMaladyAnalyzer_VGG16.ipynb
 
-3. Step through each cell to load the dataset, preprocess the images, and train the model.
+   Step through each cell to load the dataset, preprocess the images, and train the model.
    The notebook will guide you through data augmentation, model training, and evaluation phases.
