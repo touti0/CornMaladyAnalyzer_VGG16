@@ -22,7 +22,7 @@ available at: https://www.kaggle.com/datasets/nafishamoin/new-bangladeshi-crop-d
 
 2. **Run the Notebook:** 
    ```bash
-   jupyter notebook CornMaladyAnalyzer_VGG16.ipynb
+   jupyter notebook Corn_ Disease_ Classification.ipynb
 
    Step through each cell to load the dataset, preprocess the images, and train the model.
    The notebook will guide you through data augmentation, model training, and evaluation phases.
